@@ -16,5 +16,7 @@ This project is a beginner-friendly demonstration of how to:
 ### Project Structure
 postgres-python-app/
  ├── app.py
+ 
  ├── requirements.txt
+ 
  └── Dockerfile
