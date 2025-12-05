@@ -12,3 +12,9 @@ This project is a beginner-friendly demonstration of how to:
 - Dockerize the application
 - Run both containers using a custom Docker network
 - Push the final application image to Docker Hub
+
+### Project Structure
+postgres-python-app/
+ ├── app.py
+ ├── requirements.txt
+ └── Dockerfile
