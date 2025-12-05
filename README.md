@@ -36,6 +36,7 @@ docker build -t <yourusername>/postgres-python-app:latest .
 <img width="902" height="737" alt="Screenshot 2025-12-05 164551" src="https://github.com/user-attachments/assets/71224209-b6e8-4720-aefa-783d18e71973" />
 
 
+
 **Create Custom Docker Network**
 
 - Create a custom docker network by using the command:
