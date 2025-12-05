@@ -50,6 +50,12 @@ docker network create network_name
 
 **Run PostgreSQL Container**
 
+- Run the below the command to run the postgreSQL container.
+
+```
+docker run -d --name postgres-db --network mynetwork -e POSTGRES_USER=testuser -e POSTGRES_PASSWORD=testpass -e POSTGRES_DB=testdb postgres:15
+```
+
 <img width="922" height="764" alt="Screenshot 2025-12-05 164754" src="https://github.com/user-attachments/assets/cdc004b7-2b6d-462a-a238-5d741b50629e" />
 
 <img width="873" height="237" alt="Screenshot 2025-12-05 164817" src="https://github.com/user-attachments/assets/8e709dc6-d34b-4f6e-a1c7-5210f732b585" />
