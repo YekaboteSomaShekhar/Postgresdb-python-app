@@ -76,7 +76,7 @@ docker push yourusername/postgres-python-app:latest
 
 ### Checking how many docker images are there...
 
-- Using the command,
+- Using the command below, we can see list of docker images.
 
 ```
 docker images
