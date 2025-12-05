@@ -13,7 +13,7 @@ This project is a beginner-friendly demonstration of how to:
 - Run both containers using a custom Docker network
 - Push the final application image to Docker Hub
 
-### Project Structure:
+## Project Structure:
 postgres-python-app/
 
     ├── app.py
@@ -94,4 +94,10 @@ docker ps
 
 <img width="1219" height="93" alt="Screenshot 2025-12-05 160918" src="https://github.com/user-attachments/assets/5263f75d-ce3c-4322-8410-8c4d9855ab6a" />
 
+## Conclusion:
 
+This project demonstrates how Docker can simplify application development by allowing multiple services—such as a Python application and a PostgreSQL database—to run seamlessly in isolated containers while communicating over a custom network. By building and containerizing a simple Python program that creates a table, inserts data, and retrieves records from PostgreSQL, I learned how to:
+- Create and configure Docker images.
+- how to create custom docker network.
+- how to build and run the docker containers.
+- Push custom images to Docker Hub for sharing or deployment.
