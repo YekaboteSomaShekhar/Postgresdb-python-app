@@ -59,8 +59,6 @@ docker run -d --name postgres-db --network mynetwork -e POSTGRES_USER=testuser -
 <img width="873" height="237" alt="Screenshot 2025-12-05 164817" src="https://github.com/user-attachments/assets/601c3fca-d0a9-4ae0-9fa9-3ecc6c752245" />
 
 
-<img width="873" height="237" alt="Screenshot 2025-12-05 164817" src="https://github.com/user-attachments/assets/8e709dc6-d34b-4f6e-a1c7-5210f732b585" />
-
 <img width="901" height="210" alt="Screenshot 2025-12-05 164848" src="https://github.com/user-attachments/assets/1aa50aca-be43-4c4a-96e1-145e07bd4791" />
 
 
