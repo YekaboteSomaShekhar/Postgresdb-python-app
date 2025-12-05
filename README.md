@@ -73,3 +73,9 @@ docker push yourusername/postgres-python-app:latest
 ```
 
 <img width="907" height="388" alt="Screenshot 2025-12-05 172711" src="https://github.com/user-attachments/assets/074c2377-4b03-4b0f-9c1c-f33b729bd94f" />
+
+### Checking how many docker images are there...
+
+- Using the command, `docker images`
+
+<img width="1028" height="260" alt="Screenshot 2025-12-05 174830" src="https://github.com/user-attachments/assets/359cf753-8e69-44b5-965e-91bdee36cd47" />
