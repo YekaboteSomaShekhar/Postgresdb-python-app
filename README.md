@@ -76,6 +76,21 @@ docker push yourusername/postgres-python-app:latest
 
 ### Checking how many docker images are there...
 
-- Using the command, `docker images`
+- Using the command,
+
+```
+docker images
+```
 
 <img width="1028" height="260" alt="Screenshot 2025-12-05 174830" src="https://github.com/user-attachments/assets/359cf753-8e69-44b5-965e-91bdee36cd47" />
+
+### Currently running containers
+
+- Use the command, to know the docker container is running or not.
+
+```
+docker ps
+```
+
+<img width="915" height="81" alt="Screenshot 2025-12-05 160659" src="https://github.com/user-attachments/assets/262e800f-a535-4f57-9ce5-7a1ba4d8d362" />
+
