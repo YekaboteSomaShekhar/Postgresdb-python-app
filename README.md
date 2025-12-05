@@ -58,7 +58,9 @@ docker run -d --name postgres-db --network mynetwork -e POSTGRES_USER=testuser -
 <img width="922" height="764" alt="Screenshot 2025-12-05 164754" src="https://github.com/user-attachments/assets/cdc004b7-2b6d-462a-a238-5d741b50629e" />
 <img width="873" height="237" alt="Screenshot 2025-12-05 164817" src="https://github.com/user-attachments/assets/601c3fca-d0a9-4ae0-9fa9-3ecc6c752245" />
 
-- Table format
+**Expected output:**
+
+- Python app is connected to postgreSQL database.
 
 <img width="903" height="174" alt="Screenshot 2025-12-05 172255" src="https://github.com/user-attachments/assets/31f53c70-0236-4fc3-8107-098c57385adb" />
 
