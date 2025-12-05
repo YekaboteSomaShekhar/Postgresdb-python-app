@@ -41,7 +41,7 @@ docker build -t <yourusername>/postgres-python-app:latest .
 - Create a custom docker network by using the command:
 
 ```
-docker network create mynetwork
+docker network create network_name
 ```
 
 - In this case I have already created my own custom network called "mynetwork". So it says already exists.
