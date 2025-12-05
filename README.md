@@ -92,5 +92,6 @@ docker images
 docker ps
 ```
 
-<img width="915" height="81" alt="Screenshot 2025-12-05 160659" src="https://github.com/user-attachments/assets/262e800f-a535-4f57-9ce5-7a1ba4d8d362" />
+<img width="1219" height="93" alt="Screenshot 2025-12-05 160918" src="https://github.com/user-attachments/assets/5263f75d-ce3c-4322-8410-8c4d9855ab6a" />
+
 
