@@ -1,6 +1,6 @@
 # Postgresdb-python-app
 
-## Postgres-Python App (Dockerized)
+## Postgres-Python App (Dockerized):
 
 This project is a beginner-friendly demonstration of how to:
 
@@ -13,7 +13,7 @@ This project is a beginner-friendly demonstration of how to:
 - Run both containers using a custom Docker network
 - Push the final application image to Docker Hub
 
-### Project Structure
+### Project Structure:
 postgres-python-app/
 
     ├── app.py
@@ -22,7 +22,7 @@ postgres-python-app/
  
     └── Dockerfile
     
-## Outputs
+## Output:
 
 ### Building the Docker Image:
 
